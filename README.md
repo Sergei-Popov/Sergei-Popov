@@ -27,24 +27,6 @@
 
 **ДокДети / АйтиМедика — интеграции и автоматизация.** Внутренние платформы медицинской группы: онбординг сотрудников, клиентские обращения, Service Desk, аналитические API и автоматизация бизнес-процессов. Текущая должность — ведущий специалист по интеграциям и автоматизациям.
 
-## Открытые проекты
-
-### [Менеджер задач](https://github.com/Sergei-Popov/task-manager-react-supabase)
-
-Список, канбан и календарь; подзадачи, теги и категории. React/Vite, собственный API на Express, PostgreSQL и Docker Compose. Текущая версия использует собственный backend вместо Supabase.
-
-### [Асинхронный REST API](https://github.com/Sergei-Popov/Basic-CRUD-Service-Python)
-
-CRUD пользователей и сотрудников, валидация Pydantic и поиск по Telegram ID. FastAPI, SQLAlchemy 2, PostgreSQL и asyncio.
-
-### [Stellar Burgers](https://github.com/Sergei-Popov/stellar-burgers)
-
-Учебное React-приложение: конструктор бургеров, оформление заказов, авторизация и защищённые маршруты. TypeScript, Redux Toolkit, React Router и Storybook.
-
-### [Приложение для работы со встречами](https://github.com/Sergei-Popov/summarization-of-meetings) · в разработке
-
-Проект для локальной расшифровки и суммаризации встреч. В публичной версии — каркас FastAPI + React/TypeScript, SQLite, проверка окружения и Docker Compose.
-
 ## Контакты
 
 [Telegram: @abduroziiik](https://t.me/abduroziiik) · Челябинск · Удалённая работа
